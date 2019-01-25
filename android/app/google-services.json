@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "77761344469",
+    "firebase_url": "https://fir-project-349ab.firebaseio.com",
+    "project_id": "fir-project-349ab",
+    "storage_bucket": "fir-project-349ab.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:77761344469:android:e9b4fdb0e6df87c4",
+        "android_client_info": {
+          "package_name": "com.pe.claro"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "77761344469-t23b76n53j2r6gjq4a6pfic5p2v9k2b6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBrWIFKo3yQGTGWMYWvfl8tAOCml6QXGxU"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
